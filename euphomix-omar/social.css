@@ -1,0 +1,32 @@
+img{
+    position:relative ;
+    left: 2400px;
+    top:900px;
+    bottom:0px;
+    border: 10px;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+   
+}
+body{
+    background-color:#20c5b5;
+}
+p{
+    position: relative;
+    left:2480px;
+    top:900px;
+    bottom:0%;
+    border:300px;
+    width:300px;
+    height:2000px;
+}
+h1{
+    position: relative;
+    left:2480px;
+    top:900px;
+    bottom:0%;
+    border:300px;
+    width:300px;
+    height:900px;
+}
